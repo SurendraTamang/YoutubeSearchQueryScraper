@@ -1,0 +1,2 @@
+# YoutubeSearchQueryScraper
+Quick Scrapy demo
